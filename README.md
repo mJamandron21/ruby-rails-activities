@@ -2,4 +2,4 @@
 
 #Codewar Ruby Challenges
 
-https://www.codewars.com/users/mJamandron21/badges/micro
+[![CodeWars](https://www.codewars.com/users/mJamandron21/badges/large)](https://www.codewars.com/users/mJamandron21 "My Honor Badge")
